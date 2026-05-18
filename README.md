@@ -59,15 +59,19 @@ This project builds a machine learning classification model to predict whether a
 Performed visualizations using:
 
 ### Count Plot
+
 ![Loan Status](images/Loan_Status.png)
 
 ### Histogram
+
 ![Income distribution](images/Incoms_distribution.png)
 
 ### Box Plot
+
 ![CIBIL Score](images/Cibil_Score.png)
 
 ### Correlation Heatmap
+
 ![Correlations](images/Heatmap.png)
 
 ### 4. Data Preprocessing
@@ -88,13 +92,15 @@ Evaluated models using:
 - Accuracy Score
 - Classification Report
 - Confusion Matrix
- ![Confusion Matrix](images/Confusion%20Matrix.png)
+
+![Confusion Matrix](images/Confusion%20Matrix.png)
 
 ### 7. Feature Importance
 Identified the most important factors affecting loan approval.
 
 - important features
- ![Important Features](images/Important%20Features.png)
+  
+![Important Features](images/Important%20Features.png)
 ---
 
 ## Model Performance
