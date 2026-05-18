@@ -59,16 +59,16 @@ This project builds a machine learning classification model to predict whether a
 Performed visualizations using:
 
 ### Count Plot
- ![Loan Status](images/Loan%20Status.png)
+![Loan Status](images/Loan%20Status.png)
 
 ### Histogram
- ![Income distribution](images/Incoms%20distribution.png)
+![Income distribution](images/Incoms%20distribution.png)
 
-- Box Plot
- ![CIBIL Score](images/Cibil%20Score.png)
+### Box Plot
+![CIBIL Score](images/Cibil%20Score.png)
 
-- Correlation Heatmap
- ![Correlations](images/Heatmap.png)
+### Correlation Heatmap
+![Correlations](images/Heatmap.png)
 
 ### 4. Data Preprocessing
 - Applied Label Encoding
