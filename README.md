@@ -59,13 +59,13 @@ This project builds a machine learning classification model to predict whether a
 Performed visualizations using:
 
 ### Count Plot
-![Loan Status](images/Loan%20Status.png)
+![Loan Status](images/Loan_Status.png)
 
 ### Histogram
-![Income distribution](images/Incoms%20distribution.png)
+![Income distribution](images/Incoms_distribution.png)
 
 ### Box Plot
-![CIBIL Score](images/Cibil%20Score.png)
+![CIBIL Score](images/Cibil_Score.png)
 
 ### Correlation Heatmap
 ![Correlations](images/Heatmap.png)
