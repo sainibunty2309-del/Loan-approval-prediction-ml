@@ -57,10 +57,11 @@ This project builds a machine learning classification model to predict whether a
 
 ### 3. Exploratory Data Analysis (EDA)
 Performed visualizations using:
-- Count Plot
+
+### Count Plot
  ![Loan Status](images/Loan%20Status.png)
 
-- Histogram
+### Histogram
  ![Income distribution](images/Incoms%20distribution.png)
 
 - Box Plot
