@@ -58,9 +58,16 @@ This project builds a machine learning classification model to predict whether a
 ### 3. Exploratory Data Analysis (EDA)
 Performed visualizations using:
 - Count Plot
+ ![Loan Status](images/Loan%20Status.png)
+
 - Histogram
+ ![Income distribution](images/Incoms%20distribution.png)
+
 - Box Plot
+ ![CIBIL Score](images/Cibil%20Score.png)
+
 - Correlation Heatmap
+ ![Correlations](images/Heatmap.png)
 
 ### 4. Data Preprocessing
 - Applied Label Encoding
@@ -80,10 +87,13 @@ Evaluated models using:
 - Accuracy Score
 - Classification Report
 - Confusion Matrix
+ ![Confusion Matrix](images/Confusion%20Matrix.png)
 
 ### 7. Feature Importance
 Identified the most important factors affecting loan approval.
 
+- important features
+ ![Important Features](images/Important%20Features.png)
 ---
 
 ## Model Performance
