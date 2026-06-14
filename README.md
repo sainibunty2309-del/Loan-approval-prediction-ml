@@ -102,6 +102,7 @@ Identified the most important factors affecting loan approval.
   
 ![Important Features](images/Important%20Features.png)
 ---
+# Loan Approval Prediction using Machine Learning
 
 ## Model Performance
 
