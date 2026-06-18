@@ -14,7 +14,7 @@ st.set_page_config(
 # -----------------------------
 # Load Model
 # -----------------------------
-model = pickle.load(open("Loan_model.pkl", "rb"))
+model = pickle.load(open("loan_model.pkl", "rb"))
 # If your file name is loan_model.pkl, replace the above line with:
 # model = pickle.load(open("loan_model.pkl", "rb"))
 
